@@ -59,3 +59,14 @@ form input.equal
 {
     width: 145px;
 }
+
+form input.opretor
+{
+    color:aqua;
+}
+
+form input.equal
+{
+    color: crimson;
+    background-color: #fff;
+}
